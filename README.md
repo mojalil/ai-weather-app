@@ -12,6 +12,7 @@ This project is an image generator built using Next.js 13, DALL·E, and GPT-3.5.
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Contributions](#contributions)
+  - [Resources](#resources)
   - [Contact](#contact)
 
 ## Getting Started
@@ -31,6 +32,9 @@ To get started with this project, follow these steps:
 ## Contributions
 
 Contributions to this project are welcome! To contribute, please fork the repository and submit a pull request.
+
+## Resources 
+Weather data from open meteo [Link](https://open-meteo.com/)
 
 ## Contact
 
